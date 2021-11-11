@@ -1,6 +1,6 @@
 
 
-//Email setup
+
 
 function contact() {
     event.preventDefault() //Stops instant refresh
@@ -33,7 +33,7 @@ function contact() {
 }
 
 
-//Dark Mode
+
 
 let contrastToggle = false;
 
@@ -47,7 +47,7 @@ function toggleContrast() {
     }
 }
 
-//Toggling the Modal
+
 
 let isModalOpen = false;
 function toggleModal() {
@@ -60,7 +60,7 @@ function toggleModal() {
 
 }
 
-//Moving shapes
+
 
 const scaleFactor = 1 / 20;
 
