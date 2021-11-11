@@ -1,6 +1,4 @@
-//template_ev23uji
-//service_vikroba
-//user_VnzhlwlmrXYTBYsgRkktB
+
 
 //Email setup
 
