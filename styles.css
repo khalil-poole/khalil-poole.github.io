@@ -702,7 +702,7 @@ footer {
     max-width: 500px;
     display: flex;
     justify-content: space-around;
-    margin: 36px;
+    margin: 36px 0;
 }
 
 .footer__social--link,
