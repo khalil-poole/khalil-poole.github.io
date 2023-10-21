@@ -842,6 +842,7 @@ width = 80vw;
     }
 }
 
+/*Removed clutter, better visibility */
 @media (max-width: 640px) {
     .title {
         font-size: 52px;
