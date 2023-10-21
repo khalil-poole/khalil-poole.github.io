@@ -841,3 +841,19 @@ width = 80vw;
         padding: 40px;
     }
 }
+
+@media (max-width: 640px) {
+    .project__description--title {
+        font-size: 24px;
+    }
+
+    .project__description--sub-title {
+        margin-bottom: 8px;
+        font-size: 12px;
+    }
+    
+    .project__description--para {
+        display: none;
+    }
+    
+}
