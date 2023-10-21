@@ -843,17 +843,28 @@ width = 80vw;
 }
 
 @media (max-width: 640px) {
-    .project__description--title {
-        font-size: 24px;
+    .title {
+        font-size: 52px;
     }
-
-    .project__description--sub-title {
-        margin-bottom: 8px;
-        font-size: 12px;
+    .header__para {
+        font-size: 18px;
     }
-    
+    .nav__link:first-child {
+        display: none;
+    }
     .project__description--para {
         display: none;
     }
-    
+    .project__description {
+        left: 0;
+        padding: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .project__description--sub-title {
+        margin-bottom: 8px;
+    }
+    .modal__half {
+        padding: 40px;
+    }
 }
